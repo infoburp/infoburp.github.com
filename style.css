@@ -2,7 +2,11 @@ body {
 	background-color: black;
 	color: white;
 }
-headshot {
+#headshot {
   height:200px;
   width:200px;
+}
+iframe {
+	width:100%;
+	border:0px black;
 }
